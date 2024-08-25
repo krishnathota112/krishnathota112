@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @krishnathota112
 - 👀 I’m interested in  data science
-- 🌱 I’m currently learning  pyhton
-- 💞️ I’m looking to collaborate on  i need a data science mentor
+- 🌱 I’m currently learning  about data science
   i just started i am a lot confused 
 - 📫 How to reach me discord -opgamer3313
 
